@@ -15,7 +15,7 @@ int main() {
      //numero1 += 1;
      //Pos incremento;
      //Resultado = numero1;
-     //numero++;
+     //numero1++;
     printf("Antes Incremento: %d\n", numero1);
     resultado = numero1++;
     //printf("Depois Incremento: %d\n", numero1);
