@@ -10,5 +10,6 @@ int main(){
 /*também é case sensitive, para cada
 letra maiuscula ou numero ela se torna
 uma variavel única.*/
+//esse é um exemplo de como declarar variaveis
 
 }

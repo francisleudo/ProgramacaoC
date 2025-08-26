@@ -6,7 +6,6 @@ int main() {
     char opção;
     char nome[50];
     // sintaxe scanf
-    
 
     printf("Digite sua idade: \n");
     scanf("%d", &idade);
