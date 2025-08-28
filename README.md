@@ -10,3 +10,6 @@ Neste exemplo, você vai aprender a:
 - Aprender sobre variaveis 
 - Aprender sobre variaveis de incremento e decremento
 - Aprender sobre operadores matematicos
+- Aprender sobre modificadores
+- Aprender sobre estrutura Cadeada e Encadeada
+- Ver exemplos de programação em C
